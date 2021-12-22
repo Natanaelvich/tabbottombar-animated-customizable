@@ -17,8 +17,9 @@ TabBottomBar Animated Customizable component made with expo, react native and Re
 ## 🖼 GIFs
 
 <p align='center'>
-<img src='' width='375' />
-<img src='' width='375' />
+<img src='https://user-images.githubusercontent.com/52014318/147028114-70358864-7400-4787-8c79-cbf2b1ae9e1d.gif' width='375' />
+<img src='https://user-images.githubusercontent.com/52014318/147028236-ec705c94-b53f-417a-aef9-c16145451bd6.gif' width='375' />
+
 </p>
 
 ## ✨ Technologies
